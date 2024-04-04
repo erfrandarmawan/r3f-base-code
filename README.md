@@ -7,7 +7,7 @@
   - <b>/images</b> : Image files
   - <b>/models</b> : 3D model files
   - <b>index.html</b> : Main HTML file
-<br>
+
 - <b>/src</b>
   - <b>/components</b> : Component file for R3F
   - <b>/systems</b> : Utilities functions
@@ -15,11 +15,9 @@
   - <b>index.css</b> : Main CSS file
   - <b>index.js</b> : Main JS to call canvas and HTML file
   - <b>Scene.jsx</b> : Main scene file
-<br>
+
 - <b>.env</b> : Environment variable file
-<br>
 - <b>package.json</b> : Library version (Due to high activity in three.js, <b>we must set fixed version to prevent error build</b>)
-<br>
 - <b>README.md</b> : Project information
 
 ## Available Scripts
